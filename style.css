@@ -1,0 +1,141 @@
+body {
+	background-color: #212121;
+	text-decoration: none;
+	link: #ffffff;
+	vlink: #ffffff;
+	alink: #ffffff;
+}
+
+#headlink {
+	color: white;
+	font-size: 200%;
+	text-decoration: none;
+	margin-left: 5px;
+	margin-right: 5px;
+	font-family: Lucida Sans Unicode;
+}
+
+#line1 {
+	color: white;
+	font-size: 250%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+}
+
+#line2 {
+	color: white;
+	font-size: 125%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+}
+
+#TXTsmall {
+	color: white;
+	font-size: 80%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+	link: #ffffff;
+	vlink: #ffffff;
+	alink: #ffffff;
+}
+
+#TXTbmidlink{
+	color: white;
+	font-size: 100%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+	link: #ffffff;
+	vlink: #ffffff;
+	alink: #ffffff;
+}
+
+#TXTbig{
+	color: white;
+	font-size: 100%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+	text-decoration: none;
+	link: #ffffff;
+	vlink: #ffffff;
+	alink: #ffffff;
+}
+
+#TXTbig2 {
+	color: white;
+	font-size: 120%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+	text-decoration: none;
+	link: #ffffff;
+	vlink: #ffffff;
+	alink: #ffffff;
+}
+
+#TXTbig3 {
+	color: white;
+	font-size: 200%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+	text-decoration: none;
+	link: #ffffff;
+	vlink: #ffffff;
+	alink: #ffffff;
+}
+
+#podkategorialink {
+	color: white;
+	font-size: 100%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+	link: #ffffff;
+	vlink: #ffffff;
+	alink: #ffffff;
+}
+
+#imgBig {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	-webkit-box-shadow: 0px 0px 8px 4px #cfcfcf;
+	-moz-box-shadow: 0px 0px 8px 4px #cfcfcf;
+	box-shadow: 0px 0px 8px 4px #cfcfcf;
+}
+
+#imgMAIN {
+	-webkit-box-shadow: 0px 0px 8px 4px #cfcfcf;
+	-moz-box-shadow: 0px 0px 8px 4px #cfcfcf;
+	box-shadow: 0px 0px 8px 4px #cfcfcf;
+}
+
+#table {
+    border: none;
+	width: 200px;
+}
+
+#td1 {
+	text-align: left;
+	color: white;
+	font-size: 80%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+}
+
+#td2 {
+	text-align: right;
+	color: white;
+	font-size: 80%;
+	font-weight: bold;
+	font-family: Lucida Sans Unicode;
+}
+
+#table2 {
+    border: none;
+	width: 600px;
+}
+
+#td1_b {
+	text-align: justify;
+	color: white;
+	font-size: 100%;
+	font-weight: none;
+	font-family: Lucida Sans Unicode;
+}
